@@ -1,2 +1,2 @@
-# Html-Boilerplate
-A Html Boilerplate
+# Local-Storage-Practice
+Local-Storage-Practice
